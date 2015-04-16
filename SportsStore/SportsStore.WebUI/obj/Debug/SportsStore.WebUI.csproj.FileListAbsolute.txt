@@ -1,0 +1,76 @@
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\Antlr3.Runtime.dll
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\Moq.dll
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\Newtonsoft.Json.dll
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\Ninject.dll
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Net.Http.Formatting.dll
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.Http.dll
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.Http.WebHost.dll
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.dll
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.Optimization.dll
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.Providers.dll
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.dll
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.dll
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.Razor.dll
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\WebGrease.dll
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\Moq.pdb
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\Moq.xml
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\Ninject.pdb
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\Ninject.xml
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\Newtonsoft.Json.xml
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Net.Http.Formatting.xml
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.Http.xml
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.Http.WebHost.xml
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.xml
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.xml
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.xml
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.Razor.xml
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\Antlr3.Runtime.dll
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\Moq.dll
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\Newtonsoft.Json.dll
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\Ninject.dll
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Net.Http.Formatting.dll
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.Http.dll
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.Http.WebHost.dll
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.dll
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.Optimization.dll
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.Providers.dll
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.dll
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.dll
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.Razor.dll
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\WebGrease.dll
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\Moq.pdb
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\Moq.xml
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\Ninject.pdb
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\Ninject.xml
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\Newtonsoft.Json.xml
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Net.Http.Formatting.xml
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.Http.xml
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.Http.WebHost.xml
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.xml
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.xml
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.xml
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.Razor.xml
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb

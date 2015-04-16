@@ -1,0 +1,16 @@
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+D:\AM\Interns\NET\Materials\9781430242369\Chapter 07-11\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+D:\AM\Interns\NET\Materials\MVC ASP Examples\Chapter 07-11\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
